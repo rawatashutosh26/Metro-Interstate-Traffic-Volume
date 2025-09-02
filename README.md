@@ -42,7 +42,8 @@ The project uses the Metro Interstate Traffic Volume dataset. The initial data c
     date_time 📅: The timestamp for the data point.
 
     traffic_volume 🚙: The target variable, representing the number of vehicles per hour.
-    <img width="940" height="274" alt="image" src="https://github.com/user-attachments/assets/0d686cef-25b6-416b-9493-9713844b7fa4" />
+<img width="940" height="274" alt="image" src="https://github.com/user-attachments/assets/b52df1ac-9bf1-4690-81b4-e6b6ae9ee0fe" />
+
 
 
 ⚙️ Data Preprocessing
